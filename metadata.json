@@ -1,0 +1,7 @@
+{
+  "name": "Harmonika Tech ISP",
+  "description": "Modern ISP landing page with editable CMS content and admin dashboard.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
